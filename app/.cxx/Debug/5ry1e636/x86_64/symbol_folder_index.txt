@@ -1,1 +1,1 @@
-/home/sqyd/projekty/c/ReallyMatureAppForAndroid/app/build/intermediates/cxx/Debug/5ry1e636/obj/x86_64
+/home/sqyd/projekty/c/ReallyMatureApp/app/build/intermediates/cxx/Debug/5ry1e636/obj/x86_64

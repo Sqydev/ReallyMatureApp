@@ -1,4 +1,4 @@
-# Install script for directory: /home/sqyd/projekty/c/ReallyMatureAppForAndroid/app/src/main/cpp
+# Install script for directory: /home/sqyd/projekty/c/ReallyMatureApp/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sqyd/projekty/c/ReallyMatureAppForAndroid/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/cmake_install.cmake")
+  include("/home/sqyd/projekty/c/ReallyMatureApp/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sqyd/projekty/c/ReallyMatureAppForAndroid/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/cmake_install.cmake")
+  include("/home/sqyd/projekty/c/ReallyMatureApp/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/sqyd/projekty/c/ReallyMatureAppForAndroid/app/.cxx/Debug/5ry1e636/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/sqyd/projekty/c/ReallyMatureApp/app/.cxx/Debug/5ry1e636/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

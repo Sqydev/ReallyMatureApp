@@ -1,4 +1,4 @@
-# Install script for directory: /home/sqyd/projekty/c/ReallyMatureAppForAndroid/app/src/main/cpp/deps/raymob
+# Install script for directory: /home/sqyd/projekty/c/ReallyMatureApp/app/src/main/cpp/deps/raymob
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
