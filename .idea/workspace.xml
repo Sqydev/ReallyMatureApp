@@ -10,68 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f09676a-deb2-4577-9937-0898781046ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/SettingsIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/StatsIcon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86/configure_fingerprint.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.cmake/api/v1/reply/cache-v2-a57cddfdfd9fac4519f3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.cmake/api/v1/reply/cmakeFiles-v1-bfcb06a411fca0e4cdee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.cmake/api/v1/reply/codemodel-v2-1dabc27ecbef4427d73a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.cmake/api/v1/reply/index-2025-06-02T19-40-50-0600.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.cmake/api/v1/reply/target-raymob-Debug-beffe21001aca37c36ad.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.cmake/api/v1/reply/target-raymoblib-Debug-b7335dc4300a2b5f07dd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/3.22.1-g37088a8/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/raymob.dir/home/sqyd/Android/Sdk/ndk/26.1.10909125/sources/android/native_app_glue/android_native_app_glue.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/raymob.dir/home/sqyd/Android/Sdk/ndk/26.1.10909125/sources/android/native_app_glue/android_native_app_glue.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/raymob.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/raymob.dir/main.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/build_file_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/build_file_index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/compile_commands.json.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/compile_commands.json.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/configure_fingerprint.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/configure_fingerprint.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/raudio.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/raudio.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rcore.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rcore.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rmodels.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rshapes.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtext.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtext.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/rtextures.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/utils.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/CMakeFiles/raylib.dir/utils.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/libraylib.a" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raylib/libraylib.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/callback.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/callback.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/display.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/display.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/helper.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/sensor.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/sensor.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/soft_keyboard.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/soft_keyboard.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/vibrator.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/CMakeFiles/raymoblib.dir/vibrator.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/libraymoblib.a" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/deps/raymob/libraymoblib.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/metadata_generation_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/metadata_generation_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/symbol_folder_index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/Debug/5ry1e636/x86_64/symbol_folder_index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.cxx/tools/debug/x86_64/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/.cxx/tools/debug/x86_64/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/cpp/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,20 +54,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android App.app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/sqyd/projekty/c/ReallyMatureApp/app/src/main/assets"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sqyd/projekty/c/ReallyMatureApp/app/src/main/assets&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/assets" />
@@ -218,6 +157,17 @@
       <updated>1748893050676</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
